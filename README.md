@@ -28,6 +28,8 @@ A aplicação permite **adicionar, visualizar, editar e remover skins**, funcion
 
 # ✨ Funcionalidades
 
+<div align="center">
+
 | Recurso | Descrição |
 |---|---|
 | 🧾 **Listagem de Skins** | Visualização de todas as skins cadastradas |
@@ -37,6 +39,7 @@ A aplicação permite **adicionar, visualizar, editar e remover skins**, funcion
 | 🔐 **Painel Administrativo** | Controle completo para gerenciamento |
 | 💾 **Persistência de Dados** | Armazenamento usando banco de dados |
 
+</div>
 ---
 
 # 🛠️ Tecnologias & Ferramentas
